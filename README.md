@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alinaderkurdi" alt="alinaderkurdi" /></a> </p>
 
-- 🌱 I’m currently learning **Typescript,Next js**
+- 🌱 I’m currently learning **Typescript,Next js ,Tailwind , Postman**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Alinaderkurdi](https://github.com/Alinaderkurdi)
 
