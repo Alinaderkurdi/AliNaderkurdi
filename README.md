@@ -3,7 +3,7 @@
 <h3 align="center">
  I'm a passionate front-end developer with a love for learning and tackling challenges. My journey in the world of web development is fueled by a curiosity for new technologies and a drive to continuously improve 
  my skills.
- <hr background= 'none'></hr>
+ <hr style="color:blue;"></hr>
  
 About Me
 🌟 Front-End Expertise: I specialize in creating dynamic and responsive user interfaces that provide seamless experiences for users. My focus is on developing intuitive and engaging web applications.
@@ -15,7 +15,7 @@ About Me
 🛠️ Problem Solver: Facing challenges is a part of the journey, and I embrace them with enthusiasm. My problem-solving skills help me tackle complex issues and find efficient solutions.
 
 What You'll Find Here
-Projects: My GitHub is a showcase of projects that highlight my skills and creativity. Explore repositories to see my work with frameworks like React, Vue, and Angular, as well as other front-end technologies.
+Projects: My GitHub is a showcase of projects that highlight my skills and creativity. Explore repositories to see my work with frameworks like React, and other front-end technologies.
 Learning Journey: I'm dedicated to continuous learning and often share code snippets, tutorials, and experiments that document my growth as a developer.
 Collaboration: I value teamwork and collaboration. I'm open to contributing to open-source projects and engaging with other developers to share knowledge and ideas.
 </h3>
