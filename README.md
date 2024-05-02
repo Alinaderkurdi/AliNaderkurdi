@@ -6,9 +6,11 @@
   
 About Me
 🌟 Front-End Expertise: I specialize in creating dynamic and responsive user interfaces that provide seamless experiences for users. My focus is on developing intuitive and engaging web applications.
-<hr margin= ' 0 0 auto' width= '50%', height= '1px' >
+
 🔥 Tech Enthusiast: I thrive on staying up-to-date with the latest trends and technologies in the front-end world. From modern frameworks to emerging tools, I'm always eager to explore and integrate new solutions.
+
 🎨 Design and Development: I believe in the harmony between design and functionality. My approach involves crafting visually appealing designs while ensuring optimal performance and user experience.
+
 🛠️ Problem Solver: Facing challenges is a part of the journey, and I embrace them with enthusiasm. My problem-solving skills help me tackle complex issues and find efficient solutions.
 
 What You'll Find Here
