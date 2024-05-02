@@ -3,6 +3,7 @@
 <h3 align="center">
  I'm a passionate front-end developer with a love for learning and tackling challenges. My journey in the world of web development is fueled by a curiosity for new technologies and a drive to continuously improve 
  my skills.
+
   
 About Me
 🌟 Front-End Expertise: I specialize in creating dynamic and responsive user interfaces that provide seamless experiences for users. My focus is on developing intuitive and engaging web applications.
