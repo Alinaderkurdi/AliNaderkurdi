@@ -1,19 +1,22 @@
 <h1 align="center">Hi 👋, I'm Ali Naderkurdi</h1>
 <h2 align="center"> Welcome to My GitHub Portfolio!</h2>
 <h3 align="center">
+
  I'm a passionate front-end developer with a love for learning and tackling challenges. My journey in the world of web development is fueled by a curiosity for new technologies and a drive to continuously improve 
  my skills.
- <hr style="background:blue;"></hr>
- 
+<p>
 About Me
 🌟 Front-End Expertise: I specialize in creating dynamic and responsive user interfaces that provide seamless experiences for users. My focus is on developing intuitive and engaging web applications.
-
+</p>
+<p>
 🔥 Tech Enthusiast: I thrive on staying up-to-date with the latest trends and technologies in the front-end world. From modern frameworks to emerging tools, I'm always eager to explore and integrate new solutions.
-
+</p>
+<p>
 🎨 Design and Development: I believe in the harmony between design and functionality. My approach involves crafting visually appealing designs while ensuring optimal performance and user experience.
-
+</p>
+<p>
 🛠️ Problem Solver: Facing challenges is a part of the journey, and I embrace them with enthusiasm. My problem-solving skills help me tackle complex issues and find efficient solutions.
-
+</p>
 What You'll Find Here
 Projects: My GitHub is a showcase of projects that highlight my skills and creativity. Explore repositories to see my work with frameworks like React, and other front-end technologies.
 Learning Journey: I'm dedicated to continuous learning and often share code snippets, tutorials, and experiments that document my growth as a developer.
