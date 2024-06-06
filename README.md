@@ -27,7 +27,7 @@ Collaboration: I value teamwork and collaboration. I'm open to contributing to o
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alinaderkurdi" alt="alinaderkurdi" /></a> </p>
 
-- 🌱 I’m currently learning **webpack, jest**
+- 🌱 I’m currently learning **Algorithm and Datastructures**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Alinaderkurdi](https://github.com/Alinaderkurdi)
 
