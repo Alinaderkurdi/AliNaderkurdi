@@ -23,7 +23,7 @@ Learning Journey: I'm dedicated to continuous learning and often share code snip
 Collaboration: I value teamwork and collaboration. I'm open to contributing to open-source projects and engaging with other developers to share knowledge and ideas.
 </h3>
 <br><br/>
-🔭 I’m currently working on pods.fan<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning Algorithm And Data structures <br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on pods.fan<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning  **Algorithm And Data structures**
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ali_naderkurdi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-naderkurdi-b424aa263) 
